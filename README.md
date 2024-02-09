@@ -8,6 +8,10 @@
 - Bot's site: https://bot.straccini.com/
 - Source code: https://github.com/guibranco/gstraccini-bot
 
+## What this bot can do
+
+
+
 ## Maintainer 
 
 This account, bot, app and site are maintained by [@GuiBranco](https://github.com/guibranco)
