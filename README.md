@@ -22,7 +22,7 @@ To install the bot:
 1. Visit the [GitHub Apps page](https://github.com/apps/gstraccini).
 2. Install it for your account, organization, or selected repositories.
 
-You can see an updated list of available commands by commenting `@gstraccini help` on a pull request.
+You can see an updated list of available commands by commenting `@gstraccini help` on a pull request or issue.
 
 ---
 
@@ -59,9 +59,6 @@ GStraccini-bot can handle various tasks. Here’s a list of commands:
 
 > [!Note]
 > If you are not allowed to use the bot, a thumbs-down reaction will be added to your comment.
-
-> [!Tip]
-> You can trigger commands with a ✅ tick (beta feature).
 
 ---
 
