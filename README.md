@@ -15,12 +15,6 @@
 
 ---
 
-## About This Repository
-
-This repository serves as the core for GStraccini-bot. It processes commands and actions, enabling the bot to automate your repository.
-
----
-
 ## Installation
 
 To install the bot:
